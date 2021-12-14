@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="15dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shapebackground"
+        android:orientation="vertical"
+        android:padding="15dp">
+        <EditText
+            android:id="@+id/cashieridno2"
+            android:layout_width="match_parent"
+            android:background="@drawable/shapebackground"
+            android:padding="10dp"
+            android:layout_margin="5dp"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="National ID">
+
+        </EditText>
+        <EditText
+            android:inputType="textEmailAddress"
+            android:id="@+id/cashieremail2"
+            android:layout_margin="5dp"
+            android:background="@drawable/shapebackground"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email">
+
+        </EditText>
+        <EditText
+            android:inputType="phone"
+            android:id="@+id/cashiercontact2"
+            android:layout_margin="5dp"
+            android:background="@drawable/shapebackground"
+            android:padding="10dp"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contact">
+
+        </EditText>
+
+    </LinearLayout>
+</LinearLayout>

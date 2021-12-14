@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navcashiers">
+    <activity
+        android:id="@+id/cashierMainActivity"
+        android:name="com.example.hotelcostmanagementsystem.CashierMainActivity"
+        android:label="activity_cashier_main"
+        tools:layout="@layout/activity_cashier_main" />
+    <fragment
+        android:id="@+id/id_insertFragment"
+        android:name="com.example.hotelcostmanagementsystem.cashiersfragments.InsertFragment"
+        android:label="fragment_insert"
+        tools:layout="@layout/fragment_insert" />
+    <fragment
+        android:id="@+id/id_updateFragmentCashier"
+        android:name="com.example.hotelcostmanagementsystem.cashiersfragments.UpdateFragment"
+        android:label="fragment_update2"
+        tools:layout="@layout/fragment_update2" />
+    <fragment
+        android:id="@+id/id_updatepasswordFragment2"
+        android:name="com.example.hotelcostmanagementsystem.cashiersfragments.UpdatepasswordFragment"
+        android:label="fragment_updatepassword2"
+        tools:layout="@layout/fragment_updatepassword2" />
+
+</navigation>

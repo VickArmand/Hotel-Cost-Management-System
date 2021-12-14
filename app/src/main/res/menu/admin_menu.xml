@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/id_registration"
+            android:icon="@drawable/edit"
+            android:title="@string/reg" />
+        <item
+            android:id="@+id/id_viewadminsFragment"
+            android:icon="@drawable/edit"
+            android:title="@string/menu_home1" />
+        <item
+            android:id="@+id/id_updatepasswordFragment"
+            android:icon="@drawable/settings"
+            android:title="@string/menu_gallery1" />
+        <item
+            android:id="@+id/id_adminMainActivity"
+            android:icon="@drawable/person"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/id_cashiers"
+            android:icon="@drawable/person"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/id_salesFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/id_purchasesFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow1" />
+        <item
+            android:id="@+id/id_netFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow2" />
+
+</menu>

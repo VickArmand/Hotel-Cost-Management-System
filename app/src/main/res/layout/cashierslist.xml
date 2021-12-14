@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="16dp">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:layout_marginLeft="16dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ID"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                android:textStyle="bold">
+
+            </TextView>
+            <TextView
+                android:id="@+id/cashierid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="1234"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                >
+
+            </TextView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                android:textStyle="bold">
+
+            </TextView>
+            <TextView
+                android:id="@+id/cashierfname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Victor"
+                android:layout_marginStart="8dp"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                >
+
+            </TextView>
+            <TextView
+                android:id="@+id/cashiersname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Maze"
+                android:layout_marginStart="8dp"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                >
+
+            </TextView>
+            <TextView
+                android:id="@+id/cashiersurname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rick"
+                android:layout_marginStart="8dp"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                >
+            </TextView>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Email"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/cashieremail"
+                android:layout_width="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_height="wrap_content"
+                android:text="rick@gmail.com"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                >
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contact"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                android:textStyle="bold">
+
+            </TextView>
+            <TextView
+                android:id="@+id/cashiercontact"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0987654321"
+                android:layout_marginStart="8dp"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                >
+
+            </TextView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            >
+            <Button
+                android:id="@+id/btnedit1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/edit">
+
+            </Button>
+            <Button
+                android:id="@+id/btndelete1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/ic_baseline_delete_24">
+
+            </Button>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

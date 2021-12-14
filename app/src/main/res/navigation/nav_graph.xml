@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/id_viewadminsFragment">
+
+    <fragment
+        android:id="@+id/id_viewadminsFragment"
+        android:name="com.example.hotelcostmanagementsystem.adminfragments.ViewadminsFragment"
+        android:label="AdminHome"
+        tools:layout="@layout/fragment_viewadmins" />
+    <fragment
+        android:id="@+id/id_viewcashiersFragment"
+        android:name="com.example.hotelcostmanagementsystem.adminfragments.ViewcashiersFragment"
+        android:label="Display Cashiers"
+        tools:layout="@layout/fragment_viewcashiers" />
+
+    <fragment
+        android:id="@+id/id_netFragment"
+        android:name="com.example.hotelcostmanagementsystem.adminfragments.NetFragment"
+        android:label="fragment_net"
+        tools:layout="@layout/fragment_net" />
+    <fragment
+        android:id="@+id/id_purchasesFragment"
+        android:name="com.example.hotelcostmanagementsystem.adminfragments.PurchasesFragment"
+        android:label="fragment_purchases"
+        tools:layout="@layout/fragment_purchases" />
+    <fragment
+        android:id="@+id/id_registerFragment"
+        android:name="com.example.hotelcostmanagementsystem.adminfragments.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" />
+    <fragment
+        android:id="@+id/id_salesFragment"
+        android:name="com.example.hotelcostmanagementsystem.adminfragments.SalesFragment"
+        android:label="fragment_sales"
+        tools:layout="@layout/fragment_sales" />
+    <fragment
+        android:id="@+id/id_updateFragment"
+        android:name="com.example.hotelcostmanagementsystem.adminfragments.UpdateFragment"
+        android:label="fragment_update"
+        tools:layout="@layout/fragment_update" />
+
+    <fragment
+        android:id="@+id/id_updatepasswordFragment"
+        android:name="com.example.hotelcostmanagementsystem.adminfragments.UpdatepasswordFragment"
+        android:label="fragment_updatepassword"
+        tools:layout="@layout/fragment_updatepassword" />
+
+    <activity
+        android:id="@+id/id_adminMainActivity"
+        android:name="com.example.hotelcostmanagementsystem.AdminMainActivity"
+        android:label="activity_admin_main"
+        tools:layout="@layout/activity_admin_main" />
+
+    <activity
+        android:id="@+id/id_cashiers"
+        android:name="com.example.hotelcostmanagementsystem.Cashiers"
+        android:label="activity_cashiers"
+        tools:layout="@layout/activity_cashiers" />
+    <activity
+        android:id="@+id/id_registration"
+        android:name="com.example.hotelcostmanagementsystem.Registration"
+        android:label="activity_registration"
+        tools:layout="@layout/activity_registration" />
+</navigation>

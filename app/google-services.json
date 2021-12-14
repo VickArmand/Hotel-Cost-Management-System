@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "492011606758",
+    "firebase_url": "https://androidy3groupproj-default-rtdb.firebaseio.com",
+    "project_id": "androidy3groupproj",
+    "storage_bucket": "androidy3groupproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492011606758:android:d009c34f13966a9e272127",
+        "android_client_info": {
+          "package_name": "com.example.hotelcostmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492011606758-tieehrtm6elas65bghg2n4npu7igbnj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bMpe9kQgWOXluGyI4Ru9sj6vswyWPzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492011606758-tieehrtm6elas65bghg2n4npu7igbnj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492011606758:android:7a754bcefb9cee20272127",
+        "android_client_info": {
+          "package_name": "com.example.schoolmanagementclassproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492011606758-tieehrtm6elas65bghg2n4npu7igbnj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bMpe9kQgWOXluGyI4Ru9sj6vswyWPzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492011606758-tieehrtm6elas65bghg2n4npu7igbnj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

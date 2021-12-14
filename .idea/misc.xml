@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/drawable/edit.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/drawable/shapebackground.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/drawable/side_nav_bar.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_admin_home.xml" value="0.25" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_admin_main.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_admin_main_acivity.xml" value="0.1" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_cahierslist.xml" value="0.1" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_cashier_home.xml" value="0.10914855072463768" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_cashier_main.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_cashierlist.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_cashiers.xml" value="0.22" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_cashierslist.xml" value="0.1875" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/activity_registration.xml" value="0.33" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/adminslist.xml" value="0.18" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/app_bar_admin_main_acivity.xml" value="0.2" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/cashierslist.xml" value="0.25" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/content_admin_home.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/content_admin_main_acivity.xml" value="0.1953125" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/content_cashier_home.xml" value="0.1" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_gallery.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_insert.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_net.xml" value="0.2046875" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_purchases.xml" value="0.2046875" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_register.xml" value="0.2046875" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_sales.xml" value="0.2046875" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_slideshow.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_update.xml" value="0.2046875" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_update2.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_updatepassword.xml" value="0.2046875" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_viewadmins.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/fragment_viewcashiers.xml" value="0.15" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/headernav.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/mytoolbar.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/nav_header_admin_main_acivity.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/updateadmin.xml" value="0.33" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/layout/updatecashier.xml" value="0.33" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/menu/admin_main_acivity.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/menu/admin_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/menu/cashier_main.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/menu/cashier_main_acivity.xml" value="0.209375" />
+        <entry key="..\:/Users/VICKFURY/AndroidStudioProjects/HotelCostManagementSystem/app/src/main/res/menu/cashier_menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
